@@ -1,0 +1,15 @@
+tree_sitter
+tree_sitter_php
+langchain-tavily
+langsmith
+langgraph
+langchain_openai
+requests
+tqdm
+python-dotenv
+docker
+langchain-text-splitters
+langchain-community
+unstructured[md]
+chromadb
+ipdb
